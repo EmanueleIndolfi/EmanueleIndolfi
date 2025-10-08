@@ -1,5 +1,5 @@
 
-![Logo](https://upload.wikimedia.org/wikipedia/it/7/71/L%27odio.png)
+![Logo](https://blogscdn.thehut.net/app/uploads/sites/39/2023/02/BIG-LEBOWSKI-HEADER_1677162406.jpg)
 
 # Emanuele who?
 
