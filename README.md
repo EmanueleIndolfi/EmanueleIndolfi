@@ -17,5 +17,5 @@
 ## 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueleindolfi&show_icons=true&theme=highcontrast)
 
-## My Contribution Graph
+## 💻 My Contribution Graph
 <a href=#><img src="contributions.svg"></a>
