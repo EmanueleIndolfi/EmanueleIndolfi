@@ -11,6 +11,8 @@
 
 📫 For collaborations, inquiries or just to say hi, reach me out at: emanueleindolfi3@gmail.com
 
-
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,html,css,php,mysql,matlab,latex,ai,ps)](https://skillicons.dev)
+
+## 🛠 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueleindolfi&show_icons=true&theme=highcontrast)
