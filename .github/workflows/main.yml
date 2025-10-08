@@ -20,12 +20,10 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Aggiungi questa riga per specificare i temi da generare
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=light
-            dist/pacman-contribution-graph-dark.svg?palette=dark
+          # Modifica questa sezione per generare solo il tema scuro
+          outputs: dist/pacman-contribution-graph.svg?palette=dark
 
-      # Push dei file SVG generati al branch di output
+      # Push del file SVG generato al branch di output
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
