@@ -1,7 +1,7 @@
 
 ![Logo](https://blogscdn.thehut.net/app/uploads/sites/39/2023/02/BIG-LEBOWSKI-HEADER_1677162406.jpg)
 
-# Emanuele who?
+# ❓ Emanuele who?
 
 👋 Hi, my name is Emanuele Indolfi.
 
@@ -14,5 +14,13 @@
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,html,css,php,mysql,matlab,latex,ai,ps)](https://skillicons.dev)
 
-## 🛠 Stats
+## 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueleindolfi&show_icons=true&theme=highcontrast)
+
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanueleindolfi/emanueleindolfi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanueleindolfi/emanueleindolfi/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emanueleindolfi/emanueleindolfi/output/pacman-contribution-graph.svg">
+</picture>
