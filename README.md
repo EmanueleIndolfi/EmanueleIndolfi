@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student at the University of Parma.<br><br>I am currently collaborating with the University of Parma's xAI laboratory on a research project concerning the detection and repair of code vulnerabilities using LLMs.<br><br>In my free time, I like to extend my research into the artistic field, pursuing personal photography projects.<br><br>I also enjoy sports such as calisthenics, boxing and orienteering.<br><br>Thats all for now!
+I am a computer science student at the University of Parma.<br><br>I am currently collaborating with the University of Parma's xAI laboratory on a research project concerning the detection and repair of code vulnerabilities using LLMs.<br><br>Thats all for now!
 
 
 ## 🌐 Socials:
