@@ -14,9 +14,3 @@
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,html,css,php,mysql,matlab,latex,ai,ps)](https://skillicons.dev)
 
-## 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueleindolfi&show_icons=true&theme=highcontrast)
-
-## 💻 My Contribution Graph
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emanueleindolfi/emanueleindolfi/output/pacman-contribution-graph.svg">
-
